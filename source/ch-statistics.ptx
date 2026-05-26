@@ -13,7 +13,4 @@
     </p>
   </introduction>
 
-  <!-- include sections -->
-  <xi:include href="sec-statistics-intro.ptx" />
-
 </chapter>
