@@ -13,4 +13,97 @@
     </p>
   </introduction>
 
+  <section xml:id="sec-statistics-hw" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Homework</title>
+      <ol>
+        <li>
+          A study was conducted of schools across the U.S. about whether they require school uniforms. Two hundred ninety-six schools gave their response to the question, “Does your school require school uniforms?” State the population and sample.
+        </li>
+        <li>
+          The U.S. Department of Labor collects information on the average hourly earnings of professional and business services positions. Suppose that you look at 20 years and collect data on the average hourly earnings in those years. State the population and sample.
+        </li>
+        <li>
+          A person collects the gas prices at 25 gas stations in Phoenix, AZ. State the population and sample.
+        </li>
+        <li>
+          The Center for Disease Control collects data on the number of children with autism. They collect data on 32,601 children in the state of Arizona, and then look to see how many have autism. State the population and sample.
+        </li>
+        <li>
+          Determine if the variable is qualitative or quantitative. If quantitative, then also state if the variable is discrete or continuous.
+          <ol>
+            <li>
+              Height of buildings in a town
+            </li>
+            <li>
+              Eye color of all students at a college
+            </li>
+            <li>
+              Weight of cars
+            </li>
+            <li>
+              Number of dogs in a household
+            </li>
+            <li>
+              Religion of people in a town
+            </li>
+            <li>
+              Number of fish caught daily20
+            </li>
+            <li>
+              Determine if the variable is qualitative or quantitative. If quantitative, then also state if the variable is discrete or continuous.
+            </li>
+            <li>
+              Letter grades of students in a class
+            </li>
+            <li>
+              Distance a person runs every day
+            </li>
+            <li>
+              Number of prairie dogs on a parcel of land
+            </li>
+            <li>Time that a task takes to complete
+            </li>
+            <li>
+              Gender of a person
+            </li>
+            <li>
+              Number of cars at a dealership on a given day
+            </li>
+          </ol>
+        </li>
+        <li>
+          A study to estimate the average salary of workers at a university was conducted using the following designs. Categorize the sampling method as a simple random sample, stratified sample, cluster sample, systematic sample, or convenience sample.
+          <ol>
+            <li>
+              Each person who is employed by the university is first divided into groups of administrative professional, classified, faculty, and part-time. Then each person in those groupings is given a number and then random samples are taken inside each grouping.
+            </li>
+            <li>
+              Each researcher asks the first 40 people he or she encounters on campus what their salary is.
+            </li>
+            <li>
+              The researchers number all employees, and then start with the 34th person. Then they record the salary of every 10th person after that.
+            </li>
+            <li>
+              The researchers number all employees, and then use a random number generator to determine which employees they will use.
+            </li>
+            <li>
+              Each college on campus is given a number. Then five colleges are chosen at random and all employees’ salaries in each college are recorded.
+            </li>
+          </ol>
+        </li>
+        <li>
+          A biologist is looking to see the effect of microgravity on plant growth. The researcher sends some seeds to the International Space Station and has the height of the plants measured on specific days. The researcher also plants the same number of seeds in a laboratory on Earth, using the same lighting, soil, and water conditions, and measures the height of the plants on specific days. Describe the treatment group and the control group.
+        </li>
+        <li>
+          A study was conducted of Long Beach School District schools regarding how many require school uniforms. In 2006, of the 296 schools questioned, 184 said they required school uniforms. (Gentile & Imberman, 2009) Find the proportion of schools that require a school uniform.
+        </li>
+        <li>
+          A Center for Disease Control (CDC) study conducted in 2008, found that out of 32,601 children in Arizona, 507 had autism. (CDC, 2012) Find the proportion of children in Arizona who had autism in 2008.
+        </li>
+        <li>
+          Suppose you want to determine how many students live in a certain dorm at a certain university. One day you go around this dorm and encounter 50 random students. You give each of them a special card that says “I was captured!.” A few days later, you go back and check 40 students. You observe that 15 of those 40 students have the card. Estimate how many students live in this dorm.
+        </li>
+      </ol>
+  </section>
+
 </chapter>
