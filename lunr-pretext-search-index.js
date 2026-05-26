@@ -10,13 +10,22 @@ var ptx_lunr_docs = [
   "body": "  "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-statistics-intro",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-statistics-intro.html",
   "type": "Section",
   "number": "1.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "Introduction",
+  "body": " Introduction  Text of section.  "
+},
+{
+  "id": "sec-probability-intro",
+  "level": "1",
+  "url": "sec-probability-intro.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Introduction",
+  "body": " Introduction  Text of section.  "
 },
 {
   "id": "backmatter-2",
