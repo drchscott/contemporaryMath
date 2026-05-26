@@ -12,7 +12,8 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-statistics.ptx" />
+    <xi:include href="./ch-probability.ptx" />
 
 
     <!-- Include backmatter -->
